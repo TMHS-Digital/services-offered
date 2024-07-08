@@ -1,8 +1,8 @@
-# TM Hospitality Strategies Consulting Services
-
-___Welcome to the official GitHub repository of TM Hospitality Strategies. We specialize in identifying and addressing operational issues for restaurants and other hospitality businesses to enhance their performance.___
+## Welcome to the official GitHub repository of ___[![TM Hospitality Strategies](https://img.shields.io/badge/-TM%20Hospitality%20Strategies-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true)___
 
 ---
+
+___We specialize in identifying and addressing operational issues for restaurants and other hospitality businesses to enhance their performance.___
 
 ---
 
@@ -48,5 +48,7 @@ ___Welcome to the official GitHub repository of TM Hospitality Strategies. We sp
 ## Contact Us
 
 Interested in learning more about our services? Contact us today!
-- Company LinkedIn: [TM Hospitality Strategies](https://www.linkedin.com/company/tm-hospitality-strategies/)
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TM%20Hospitality%20Strategies-blue)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true)
