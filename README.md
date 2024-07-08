@@ -1,4 +1,4 @@
-## Welcome to the official GitHub repository of ___[![TM Hospitality Strategies](https://img.shields.io/badge/-TM%20Hospitality%20Strategies-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true)___
+___[![TM Hospitality Strategies](https://img.shields.io/badge/-TM%20Hospitality%20Strategies-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true)___
 
 ---
 
