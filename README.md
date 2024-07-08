@@ -40,8 +40,17 @@ ___We specialize in identifying and addressing operational issues for restaurant
 - Evaluation and implementation of restaurant management systems.
 - Training and support for technology adoption.
 - Continuous improvement and updates.
+- **See next section**
 
 ---
+
+## __TM Hospitality Strategies enhances business operations with advanced AI solutions, including:__
+
+-AI Education and Training: Equip teams with the latest AI technologies.
+
+-Custom AI Model Development: Improve customer service and automate tasks.
+
+-Secure AI Infrastructure Deployment: Ensure data privacy and security.
 
 ---
 
