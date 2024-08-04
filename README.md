@@ -5,14 +5,14 @@
 
 ---
 
-We specialize in identifying and addressing operational issues for restaurants and other hospitality businesses to enhance their performance.
+_We specialize in identifying and addressing operational issues for restaurants and other hospitality businesses to enhance their performance. With that being said, our digital services create trememdous value for small/medium sized businesses operating in countless industries._
 
 ---
 
 ## Services Offered
 
 ### Custom AI Solutions
-We offer a range of AI-driven solutions to automate various tasks and systems within your business, including:
+_We offer a range of AI-driven solutions to automate various tasks and systems within your business, including but not limited to:_
 - **AI Education and Training:** Equip teams with the latest AI technologies.
 - **Custom AI Model Development:** Improve customer service and automate tasks.
 - **Secure AI Infrastructure Deployment:** Ensure data privacy and security.
@@ -43,10 +43,10 @@ We offer a range of AI-driven solutions to automate various tasks and systems wi
 - Continuous improvement and updates.
 
 ### E-commerce Solutions
-We provide personalized e-commerce solutions tailored to your business needs. Our expertise includes platforms such as Shopify, Wix, and more, ensuring a seamless and effective online shopping experience for your customers.
+_We provide personalized e-commerce solutions tailored to your business needs. Our expertise includes platforms such as Shopify, Wix, and more, ensuring a seamless and effective online shopping experience for your customers._
 
 ### Bar and Restaurant Consulting
-With a strong foundation in hospitality, we provide expert consulting services for bars and restaurants. Our services include:
+_With a strong foundation in hospitality, we provide expert consulting services for bars and restaurants. Our services include but are not limited to:_
 - **Cost of Goods Sold Analysis:** Detailed evaluation of food and beverage costs to optimize pricing strategies.
 - **Groundbreaking Secret Shopper Service:** Our unique secret shopper service goes beyond traditional methods to deliver insightful feedback and actionable recommendations, offering deeper insights into customer experiences and operational challenges.
 - **Third-Party Delivery Optimization:** We can onboard, operate, or optimize third-party delivery offerings such as DoorDash, UberEats, GrubHub, and more.
@@ -55,10 +55,8 @@ With a strong foundation in hospitality, we provide expert consulting services f
 
 ## Contact Us
 
-Interested in learning more about our services? Contact us today!
+_Interested in learning more about our services?_ **Contact us today!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TM%20Hospitality%20Strategies-blue)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true)
 
 ---
-
-This version retains the essential details from both the old and new content, ensuring a comprehensive and concise presentation of your services.
