@@ -52,21 +52,59 @@ _With a strong foundation in hospitality, we provide expert consulting services 
 - **Third-Party Delivery Optimization:** We can onboard, operate, or optimize third-party delivery offerings such as DoorDash, UberEats, GrubHub, and more.
 
 ---
+
+---
+
+---
+
+---
+
 <div align="center">
 
-  ## Contact Us
+## Contact Us
 
+Interested in learning more? **Contact us today!**
 
-
-  _Interested in learning more?_ **Contact us today!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TM%20Hospitality%20Strategies-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true)  
-[![Instagram](https://img.shields.io/badge/Instagram-tmhs.ig-blue?logo=instagram&logoColor=white)](https://www.instagram.com/tmhs.ig/)  
-[![Facebook](https://img.shields.io/badge/Facebook-TM%20Hospitality%20Strategies-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100071356407115)  
-[![YouTube](https://img.shields.io/badge/YouTube-TM%20Hospitality%20Strategies-blue?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug)  
-[![TikTok](https://img.shields.io/badge/TikTok-TMHS%20Digital-blue?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tmhs.digital?is_from_webapp=1&sender_device=pc)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true">
+        <img src="https://img.shields.io/badge/LinkedIn-TM%20Hospitality%20Strategies-blue?logo=linkedin&logoColor=white" alt="LinkedIn: TM Hospitality Strategies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/tmhs.ig/">
+        <img src="https://img.shields.io/badge/Instagram-TM%20Hospitality%20Strategies-blue?logo=instagram&logoColor=white" alt="Instagram: TM Hospitality Strategies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100071356407115">
+        <img src="https://img.shields.io/badge/Facebook-TM%20Hospitality%20Strategies-blue?logo=facebook&logoColor=white" alt="Facebook: TM Hospitality Strategies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug">
+        <img src="https://img.shields.io/badge/YouTube-TM%20Hospitality%20Strategies-blue?logo=youtube&logoColor=white" alt="YouTube: TM Hospitality Strategies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.tiktok.com/@tmhs.digital?is_from_webapp=1&sender_device=pc">
+        <img src="https://img.shields.io/badge/TikTok-TM%20Hospitality%20Strategies-blue?logo=tiktok&logoColor=white" alt="TikTok: TM Hospitality Strategies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
